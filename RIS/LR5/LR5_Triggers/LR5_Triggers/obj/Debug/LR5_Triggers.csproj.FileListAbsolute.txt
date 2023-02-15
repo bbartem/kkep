@@ -1,0 +1,17 @@
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\bin\Debug\LR5_Triggers.exe.config
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\bin\Debug\LR5_Triggers.exe
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\bin\Debug\LR5_Triggers.pdb
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.csproj.AssemblyReference.cache
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.csproj.SuggestedBindingRedirects.cache
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\MainWindow.g.cs
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\App.g.cs
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers_MarkupCompile.cache
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers_MarkupCompile.lref
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\MainWindow.baml
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.g.resources
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.Properties.Resources.resources
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.csproj.GenerateResource.cache
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.csproj.CoreCompileInputs.cache
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.exe
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\LR5_Triggers.pdb
+C:\Users\BB_Artem\GitHub\kkep\RIS\LR5\LR5_Triggers\LR5_Triggers\obj\Debug\GeneratedInternalTypeHelper.g.cs
