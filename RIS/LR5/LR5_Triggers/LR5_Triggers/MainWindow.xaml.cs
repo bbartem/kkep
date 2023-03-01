@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace LR5_Triggers
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         Person src = new Person { Name = "Ali", Age = 27 };
